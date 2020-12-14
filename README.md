@@ -29,7 +29,7 @@ L'utilisateur peut :
  * Rechercher un membre par : Age  / Nom / Nombre minimal de participations / Si la personne a déjà été responsable d'une buvette
  
  Partie administration :
- #### Mot de passe #### -> admins
+ #### Mot de passe -> admins
  L'administrateur peut :
  * Ajouter un nouveau volontaire.
  * Ajouter un nouveau match.
